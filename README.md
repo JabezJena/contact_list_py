@@ -1,4 +1,4 @@
-📇 Contact List
+📇 Contact List \n
 A simple command-line contact list manager written in Python. Easily add, delete, and search contacts using a clean menu-based interface.
 
 💡 Features
